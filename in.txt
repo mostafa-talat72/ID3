@@ -1,0 +1,12 @@
+5 14
+age
+<=30 <=30 31...40 >40 >40 >40 31...40 <=30 <=30 >40 <=30 31...40 31...40 >40
+income
+high high high medium low low low med low medium medium medium high medium
+student
+no no no no yes yes yes no yes yes yes no yes no
+credit
+fair excellent fair fair fair excellent excellent fair fair fair excellent excellent fair excellent
+buys
+no no yes yes yes no yes no yes yes yes yes yes no
+

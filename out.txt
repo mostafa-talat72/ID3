@@ -1,0 +1,29 @@
+age?
+{
+	| 31...40 |
+	  yes
+
+	| <=30 |
+	student?
+	{
+		| no |
+		  no
+
+		| yes |
+		  yes
+
+	}
+
+	| >40 |
+	credit?
+	{
+		| excellent |
+		  no
+
+		| fair |
+		  yes
+
+	}
+
+}
+
